@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@elysiajs/html": "^1.0.2",
+    "bun": "^1.0.33",
+    "elysia": "^1.0.7"
+  },
+  "name": "beth",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest",
+    "typed-html": "^3.0.1"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
